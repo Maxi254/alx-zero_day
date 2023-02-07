@@ -1,1 +1,2 @@
-This is a test of my git skills
+A test of my git skills
+
